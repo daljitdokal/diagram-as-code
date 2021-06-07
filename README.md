@@ -6,9 +6,9 @@ Diagram as Code allows you to track the architecture diagram changes in any vers
 
 The Graphviz layout programs take descriptions of graphs in a simple text language, and make diagrams in useful formats, such as images and SVG for web pages; PDF or Postscript for inclusion in other documents; or display in an interactive graph browser. Graphviz has many useful features for concrete diagrams, such as options for colors, fonts, tabular node layouts, line styles, hyperlinks, and custom shapes.
 
+### Example
 ![image](https://user-images.githubusercontent.com/7479571/121095516-9189f180-c844-11eb-8a0a-1876a9f76d6b.png)
 
-### Example
 ```bash
 digraph G {
   # User
