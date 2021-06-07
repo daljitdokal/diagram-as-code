@@ -3,7 +3,6 @@ Diagram as Code allows you to track the architecture diagram changes in any vers
 
 ### Example
 ```bash
-
 digraph G {
   # User
   subgraph cluster_user {
@@ -51,7 +50,7 @@ digraph G {
     "vault-image:1.3" [shape=Msquare];
   }
 
-  # gitlab
+  # git
   subgraph cluster_gitlab {
     style=filled;
     color=lightgrey;
